@@ -7,3 +7,6 @@ Estudo utilizando HTML e CSS puros.
 - About;
 - Projects;
 - Contact.
+
+#### Hospedagem do projeto
+Acessar esse [link](https://tatianimeneghini.github.io/projectTatiani/)!
